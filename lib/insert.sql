@@ -5,4 +5,4 @@ INSERT INTO bears (name, age, gender) VALUES ("Sergeant Brown", 7, "M");
 INSERT INTO bears (name, age, gender) VALUES ("Melissa", 7, "F");
 INSERT INTO bears (name, age, gender) VALUES ("Grinch", 5, "F");
 INSERT INTO bears (name, age, gender) VALUES ("Wendy", 4, "F");
-INSERT INTO bears (name, age, gender) VALUES (null);
+INSERT INTO bears (name, age, gender) VALUES (null, 5, "F");
